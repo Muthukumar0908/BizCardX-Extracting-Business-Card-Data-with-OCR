@@ -7,6 +7,8 @@ Getting the text data from an image exatraction by using easyOCR and Create a us
 
 **Dataset Link**: https://drive.google.com/drive/folders/1FhLOdeeQ4Bfz48JAfHrU_VXvNTRgajhp)https://drive.google.com/drive/folders/1FhLOdeeQ4Bfz48JAfHrU_VXvNTRgajhp
 
+**Youtube Link:** https://youtu.be/n63iSdzkO4M
+
 **Approach** :
 
     1. Install the required packages: You will need to install Python, Streamlit,easyOCR, and a database management system like SQLite or MySQL.
